@@ -1,0 +1,6 @@
+body{
+    background-image: url(http://source.unsplash.com/600x900/?nature,rain,sunny,cloudy);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+}
